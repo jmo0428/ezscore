@@ -6,6 +6,7 @@ Project by: Karen Papazian (iOS), Justin Kobler (Backend), Joseph Mo (Backend)
 EZ Score logo.
 
 ![alt text](https://github.com/jmo0428/EZScore/blob/master/ios-app/MainScreen.png)
+
 Main screen of the app
 
 ![alt text](https://github.com/jmo0428/EZScore/blob/master/ios-app/Scores.png)
