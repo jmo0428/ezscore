@@ -1,1 +1,1 @@
-# EZScore
+# Hack-Challenge
