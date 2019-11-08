@@ -7,13 +7,13 @@ EZ Score logo.
 
 ![alt text](https://github.com/jmo0428/EZScore/blob/master/ios-app/MainScreen.png)
 
-Main screen of the app
+Main screen
 
 ![alt text](https://github.com/jmo0428/EZScore/blob/master/ios-app/Scores.png)
-"Score" screen of the app, where you're able to see the most recent score of your favorite/rival baseball team
+"Score" screen
 
 ![alt text](https://github.com/jmo0428/EZScore/blob/master/ios-app/Teams.png)
-The image above is the screen that you see when you are choosing which baseball teams to add to your favorites/rivals lists.
+Screen when choosing teams to add to your favorites/rivals lists.
 
 App Tagline: Updated baseball scores are EZ to find with EZ Score!
 
