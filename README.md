@@ -17,6 +17,7 @@ Main screen
 
 Screen when choosing teams to add to your favorites/rivals lists.
 
+
 App Tagline: Updated baseball scores are EZ to find with EZ Score!
 
 Short description of the app: With EZ Score, you don’t have to keep searching up all of your favorite baseball teams scores, you can look at all ballgame scores on one screen. You can add your favorite teams and your rival teams to keep an eye out on all rivalries throughout the league. We are looking to expand to the NBA, NHL and NFL in the near future!
