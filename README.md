@@ -10,9 +10,11 @@ EZ Score logo.
 Main screen
 
 ![alt text](https://github.com/jmo0428/EZScore/blob/master/ios-app/Scores.png)
+
 "Score" screen
 
 ![alt text](https://github.com/jmo0428/EZScore/blob/master/ios-app/Teams.png)
+
 Screen when choosing teams to add to your favorites/rivals lists.
 
 App Tagline: Updated baseball scores are EZ to find with EZ Score!
