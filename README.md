@@ -29,7 +29,3 @@ How app addresses each of the iOS/Backend requirements:
 - POST request interfaces with the database when creating a new user, or adding a team into a user's favorite/rival team section
 - DELETE request interfaces with the database when a user removes a team from their favorites
 
-Thank you all for a great semester and have a nice summer! And good luck to those graduating.
-
--K.P.
-
